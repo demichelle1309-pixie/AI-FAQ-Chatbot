@@ -80,7 +80,7 @@ streamlit run app.py
 ```
 
 The chatbot interface will open in your browser.
-
+Or simply click [https](http://localhost:8501/)
 You can now ask appliance-related questions and the chatbot will return the most relevant answer from the FAQ dataset.
 
 ---
@@ -145,3 +145,4 @@ This project was completed as part of the **Artificial Intelligence Internship a
 
 Developed by:
 **Michelle De Melo**
+
